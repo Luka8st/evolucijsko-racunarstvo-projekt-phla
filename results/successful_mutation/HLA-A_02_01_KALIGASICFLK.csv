@@ -1,0 +1,9 @@
+mutated_peptide,number_of_mutations,percentile,score
+KLLDGASICFLL,3,"0.22
+",0.566
+KLFEGASICFLL,4,"0.19
+",0.612
+KLFDGASICFLL,4,"0.12
+",0.728
+KLIDGASICFLL,4,"0.23
+",0.553
