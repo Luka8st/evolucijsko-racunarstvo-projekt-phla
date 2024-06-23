@@ -135,7 +135,7 @@ hlas = []
 hla_sequences = []
 peptides = []
 
-with open('true_negatives.csv', mode='r') as file:
+with open('1696_iedb_random_negative_pairs.csv', mode='r') as file:
     csvFile = csv.DictReader(file)
     for lines in csvFile:
         # hlas.append(lines['hla'].replace('*', '_').replace(':', '_'))
@@ -189,8 +189,8 @@ attns_cp = [tensor.cpu().numpy().copy() for tensor in attns]
 predict_data_cp = predict_data.copy()
 for idx in range(predict_data.shape[0]):
      print("idx=", idx)
-     if idx < 72:
-          continue
+    #  if idx < 72:
+    #       continue
      #print("idx =", idx, len(predict_data))
      #attns = attns_cp.copy()
 
