@@ -1,0 +1,5 @@
+,peptide,mutations,similarity,y_pred,y_prob
+107,RLNYSKDW,2,0.75,1,0.7837
+113,CLNYSPKW,2,0.75,1,0.5277
+121,RLNYSPKW,2,0.75,1,0.9639
+441,QLNYSLKW,2,0.75,1,0.695

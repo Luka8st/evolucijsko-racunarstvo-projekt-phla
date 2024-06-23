@@ -1,0 +1,3 @@
+,peptide,mutations,similarity,y_pred,y_prob
+275,ASCYAKGL,2,0.75,1,0.8801
+287,ASVYAKGL,2,0.75,1,0.7756

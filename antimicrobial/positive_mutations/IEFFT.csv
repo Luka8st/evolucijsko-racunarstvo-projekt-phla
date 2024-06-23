@@ -1,0 +1,7 @@
+,peptide,mutations,similarity,y_pred,y_prob
+5,IRFFT,1,0.8,1,0.9129
+6,IKFFT,1,0.8,1,0.9681
+7,ILFFT,1,0.8,1,0.63
+8,IECFT,1,0.8,1,0.5089
+14,IEFLT,1,0.8,1,0.7378
+15,IEFKT,1,0.8,1,0.65

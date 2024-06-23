@@ -1,0 +1,8 @@
+,peptide,mutations,similarity,y_pred,y_prob
+0,CTTGT,1,0.8,1,0.9111
+2,RTTGT,1,0.8,1,0.838
+3,LTTGT,1,0.8,1,0.8905
+8,GTCGT,1,0.8,1,0.7211
+10,GTLGT,1,0.8,1,0.7463
+14,GTTLT,1,0.8,1,0.8039
+15,GTTKT,1,0.8,1,0.5685

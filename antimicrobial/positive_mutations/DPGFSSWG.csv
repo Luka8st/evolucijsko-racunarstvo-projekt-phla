@@ -1,0 +1,3 @@
+,peptide,mutations,similarity,y_pred,y_prob
+33,CRGFSSWG,2,0.75,1,0.5568
+42,RKGFSSWG,2,0.75,1,0.8195

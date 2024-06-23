@@ -1,0 +1,6 @@
+,peptide,mutations,similarity,y_pred,y_prob
+2,RSWD,1,0.75,1,0.7078
+12,GSWC,1,0.75,1,0.8337
+13,GSWR,1,0.75,1,0.5965
+14,GSWL,1,0.75,1,0.9903
+15,GSWK,1,0.75,1,0.9898

@@ -1,0 +1,5 @@
+,peptide,mutations,similarity,y_pred,y_prob
+115,RPPSQKFMRF,2,0.8,1,0.7346
+627,SPPSQLFKRF,2,0.8,1,0.7486
+631,SPPSQKFKRF,2,0.8,1,0.529
+659,SPPSQLFMRK,2,0.8,1,0.7072

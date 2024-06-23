@@ -1,0 +1,7 @@
+,peptide,mutations,similarity,y_pred,y_prob
+2,RTGG,1,0.75,1,0.8898
+3,LTGG,1,0.75,1,0.7912
+5,GRGG,1,0.75,1,0.9978
+7,GLGG,1,0.75,1,0.882
+14,GTGL,1,0.75,1,0.847
+15,GTGK,1,0.75,1,0.7276

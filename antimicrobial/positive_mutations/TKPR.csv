@@ -1,0 +1,4 @@
+,peptide,mutations,similarity,y_pred,y_prob
+8,TKCR,1,0.75,1,0.9943
+10,TKLR,1,0.75,1,0.9982
+11,TKVR,1,0.75,1,0.9943

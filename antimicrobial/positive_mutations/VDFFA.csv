@@ -1,0 +1,4 @@
+,peptide,mutations,similarity,y_pred,y_prob
+5,VRFFA,1,0.8,1,0.9865
+6,VKFFA,1,0.8,1,0.9927
+7,VLFFA,1,0.8,1,0.7113

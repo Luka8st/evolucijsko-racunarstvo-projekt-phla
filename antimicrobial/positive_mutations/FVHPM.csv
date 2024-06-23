@@ -1,0 +1,3 @@
+,peptide,mutations,similarity,y_pred,y_prob
+12,FVHCM,1,0.8,1,0.7958
+15,FVHKM,1,0.8,1,0.9022

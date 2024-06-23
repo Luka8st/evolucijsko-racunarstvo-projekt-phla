@@ -1,0 +1,3 @@
+,peptide,mutations,similarity,y_pred,y_prob
+327,EEVKRPPPPI,2,0.8,1,0.5358
+373,EEVGRPKPPI,2,0.8,1,0.5025

@@ -1,0 +1,4 @@
+,peptide,mutations,similarity,y_pred,y_prob
+255,RPVKFSPF,2,0.75,1,0.821
+301,RPVGFSKF,2,0.75,1,0.5321
+441,RPPGFLKF,2,0.75,1,0.6503

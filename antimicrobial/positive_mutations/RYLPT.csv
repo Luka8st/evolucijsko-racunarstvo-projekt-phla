@@ -1,0 +1,3 @@
+,peptide,mutations,similarity,y_pred,y_prob
+12,RYLCT,1,0.8,1,0.6369
+15,RYLKT,1,0.8,1,0.9943

@@ -1,0 +1,5 @@
+,peptide,mutations,similarity,y_pred,y_prob
+42,RKPFSPRL,2,0.75,1,0.7935
+59,RPVFSPRL,2,0.75,1,0.7979
+75,RPPKSPRL,2,0.75,1,0.8519
+88,RPPFCPRL,2,0.75,1,0.5828

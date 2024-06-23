@@ -1,0 +1,4 @@
+,peptide,mutations,similarity,y_pred,y_prob
+242,GGCLAFGL,2,0.75,1,0.5087
+251,GGLKAFGL,2,0.75,1,0.5467
+255,GGVKAFGL,2,0.75,1,0.5261

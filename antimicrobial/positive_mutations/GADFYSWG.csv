@@ -1,0 +1,4 @@
+,peptide,mutations,similarity,y_pred,y_prob
+243,GACKYSWG,2,0.75,1,0.6243
+255,GAVKYSWG,2,0.75,1,0.8307
+334,GADKLSWG,2,0.75,1,0.6642

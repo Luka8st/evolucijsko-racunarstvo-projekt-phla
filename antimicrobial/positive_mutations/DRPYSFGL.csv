@@ -1,0 +1,5 @@
+,peptide,mutations,similarity,y_pred,y_prob
+99,CRPYSKGL,2,0.75,1,0.7657
+107,RRPYSKGL,2,0.75,1,0.8388
+113,CRPYSFKL,2,0.75,1,0.7884
+121,RRPYSFKL,2,0.75,1,0.8986

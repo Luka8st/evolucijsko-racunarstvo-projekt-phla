@@ -1,0 +1,5 @@
+,peptide,mutations,similarity,y_pred,y_prob
+4,LCLRF,1,0.8,1,0.9945
+5,LRLRF,1,0.8,1,0.9993
+6,LKLRF,1,0.8,1,0.9906
+7,LLLRF,1,0.8,1,0.9944
